@@ -1,4 +1,13 @@
  header {
-    background:rgb(203, 216, 17);
+    background:rgb(175, 175, 175);
+    position: absolute;
+    text-align: center;
     font-weight: bold;
+    font-size: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    top: 0%;
+ }
+ div {
+   font-weight: bold;
 }
